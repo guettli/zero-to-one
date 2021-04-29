@@ -60,6 +60,17 @@ At the moment most APIs use JSON as data interchange format.
 
 Althoug JSON is limited compared to [proto-buf](https://en.wikipedia.org/wiki/Protocol_Buffers)
 
+# Who will make it to the top?
+
+Wild opinioated guesses
+
+## Kubernetes
+
+At the moment it is on the top yet. Many people still use VPS or services like Heroku.
+
+But I guess sooner or later there won't be an alternative to K8s.
+
+
 
 
 
