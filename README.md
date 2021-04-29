@@ -70,7 +70,9 @@ At the moment it is on the top yet. Many people still use VPS or services like H
 
 But I guess sooner or later there won't be an alternative to K8s.
 
+## VSCode
 
+I use PyCharm, but the open source IDE vscode develops fast. I think it will win in the long run.
 
 
 
