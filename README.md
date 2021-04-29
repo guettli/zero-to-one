@@ -54,6 +54,12 @@ Although there are many competitors, email is still the single common denominato
 
 Many competitors, but no one comes close to the market share of the Wordpress.
 
+## JSON
+
+At the moment most APIs use JSON as data interchange format.
+
+Althoug JSON is limited compared to [proto-buf](https://en.wikipedia.org/wiki/Protocol_Buffers)
+
 
 
 
