@@ -1,12 +1,14 @@
 # Zero to one: A list of projects which made it to the top 
 
-[Zero to one book](https://en.wikipedia.org/wiki/Zero_to_One)
+Inspired by the book [Zero to One](https://en.wikipedia.org/wiki/Zero_to_One) I created a list of projects which made it to the top. At the end there are some guesses which projects could make it into the list in the future.
+
+About the book:
 
 > Zero to One: Notes on Startups, or How to Build the Future is a 2014 book by the American entrepreneur and investor Peter Thiel co-written with Blake Masters. 
 
-## Change is the only constant
+## Into: Change is the only constant?
 
-No, "Change is the only constant" is not true any more. There are some things which won't change soon.
+"Change is the only constant" is not true any more. There are some things which won't change soon.
 
 ## Linux
 
