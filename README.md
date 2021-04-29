@@ -46,6 +46,10 @@ Native GUIs (qt, gtk, tkinter, ....) are hardly used these days.
 
 Most other protocols are not used any more.
 
+## email
+
+Although there are many competitors, email is still the single common denominator.
+
 
 
 
