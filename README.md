@@ -50,6 +50,10 @@ Most other protocols are not used any more.
 
 Although there are many competitors, email is still the single common denominator.
 
+## Wordpress
+
+Many competitors, but no one comes close to the market share of the Wordpress.
+
 
 
 
