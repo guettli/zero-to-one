@@ -62,7 +62,7 @@ Althoug JSON is limited compared to [proto-buf](https://en.wikipedia.org/wiki/Pr
 
 # Who will make it to the top?
 
-Wild opinioated guesses
+Wild opinionated guesses
 
 ## Kubernetes
 
