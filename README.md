@@ -85,3 +85,7 @@ I use PyCharm, but the open source IDE vscode develops fast. I think it will win
 [Bazel - a fast, scalable, multi-language and extensible build system](https://bazel.build/)
 
 
+
+# Related
+
+* [Güttli working-out-loud](https://github.com/guettli/wol)
