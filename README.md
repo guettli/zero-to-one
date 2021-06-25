@@ -76,6 +76,12 @@ But I guess sooner or later there won't be an alternative to K8s.
 
 I use PyCharm, but the open source IDE vscode develops fast. I think it will win in the long run.
 
+## Terraform
 
+[Terraform, Write infrastructure as code using declarative configuration files](https://www.terraform.io/)
+
+## Bazel
+
+[Bazel - a fast, scalable, multi-language and extensible build system](https://bazel.build/)
 
 
