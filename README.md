@@ -52,6 +52,12 @@ Most other protocols are not used any more.
 
 Although there are many competitors, email is still the single common denominator.
 
+## Typescript
+
+Coffeescript is out.
+
+Typescript has won in the category "JS wrapper". But maybe there is no need for a JS wrapper?
+
 ## Wordpress
 
 Many competitors, but no one comes close to the market share of the Wordpress.
