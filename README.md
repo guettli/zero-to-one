@@ -68,6 +68,12 @@ At the moment most APIs use JSON as data interchange format.
 
 Althoug JSON is limited compared to [proto-buf](https://en.wikipedia.org/wiki/Protocol_Buffers)
 
+## UTF-8
+
+In the past character encoding was a nightmare. Today utf-8 solves almost all use-cases.
+
+See the nice chart at this page: [Who uses Unicode?](https://www.w3.org/International/questions/qa-who-uses-unicode)
+
 # Who will make it to the top?
 
 Wild opinionated guesses
