@@ -1,4 +1,4 @@
-# Zero to one: A list of projects which made it to the top 
+# Zero to One: A list of projects which made it to the top
 
 Inspired by the book [Zero to One](https://en.wikipedia.org/wiki/Zero_to_One) I created a list of projects which made it to the top. At the end there are some guesses which projects could make it into the list in the future.
 
@@ -6,71 +6,71 @@ About the book:
 
 > Zero to One: Notes on Startups, or How to Build the Future is a 2014 book by the American entrepreneur and investor Peter Thiel co-written with Blake Masters. 
 
-## Into: Change is the only constant?
+## Intro: Change is the only constant?
 
-"Change is the only constant" is not true any more. There are some things which won't change soon.
+"Change is the only constant" is not true anymore. There are some things which won't change soon.
 
 ## Linux
 
 The one and only operating system for servers.
 
-Solarix, AIX, HP-UX, .... are dead.
+Solaris, AIX, HP-UX, .... are dead.
 
-## git
+## Git
 
-In the past there were many different distributed version control system.
+In the past there were many different distributed version control systems.
 
-## github
+## GitHub
 
 The central place to work on source code in teams.
 
-## Paypal
+## PayPal
 
-54% market share, next is stripe with 18%. [Source](https://martech.zone/paypal-statistics-online-payments/)
+54% market share, next is Stripe with 18%. [Source](https://martech.zone/paypal-statistics-online-payments/)
 
 ## Google
 
 More than 90% market share.
 
-## Stackoverflow
+## Stack Overflow
 
-The most widely used Q+A plattform for tech related questions.
+The most widely used Q+A platform for tech-related questions.
 
 ## Chrome
 
-70% market share. Or even moer if you count chromium based browsers, too.
+70% market share. Or even more if you count Chromium-based browsers, too.
 
 ## HTML
 
-Native GUIs (qt, gtk, tkinter, ....) are hardly used these days.
+Native GUIs (Qt, GTK, Tkinter, ....) are hardly used these days.
 
-## http/https
+## HTTP/HTTPS
 
-Most other protocols are not used any more.
+Most other protocols are not used anymore.
 
 ## email
 
 Although there are many competitors, email is still the single common denominator.
 
-## Typescript
+## TypeScript
 
-Coffeescript is out.
+CoffeeScript is out.
 
-Typescript has won in the category "JS wrapper". But maybe there is no need for a JS wrapper?
+TypeScript has won in the category "JS wrapper". But maybe there is no need for a JS wrapper?
 
-## Wordpress
+## WordPress
 
-Many competitors, but no one comes close to the market share of the Wordpress.
+Many competitors, but no one comes close to the market share of WordPress.
 
 ## JSON
 
-At the moment most APIs use JSON as data interchange format.
+At the moment most APIs use JSON as a data interchange format.
 
-Althoug JSON is limited compared to [proto-buf](https://en.wikipedia.org/wiki/Protocol_Buffers)
+Although JSON is limited compared to [Protocol Buffers](https://en.wikipedia.org/wiki/Protocol_Buffers)
 
 ## UTF-8
 
-In the past character encoding was a nightmare. Today utf-8 solves almost all use-cases.
+In the past, character encoding was a nightmare. Today UTF-8 solves almost all use cases.
 
 See the nice chart at this page: [Who uses Unicode?](https://www.w3.org/International/questions/qa-who-uses-unicode)
 
@@ -84,9 +84,9 @@ At the moment it is on the top yet. Many people still use VPS or services like H
 
 But I guess sooner or later there won't be an alternative to K8s.
 
-## VSCode
+## VS Code
 
-I use PyCharm, but the open source IDE vscode develops fast. I think it will win in the long run.
+I use PyCharm, but the open source IDE VS Code develops fast. I think it will win in the long run.
 
 ## Terraform
 
